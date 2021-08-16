@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="drone_processor" name="lepton_processor" type="lepton_processor.py" output="screen" />
+    <node pkg="drone_processor" name="spinnaker_processor" type="spinnaker_processor.py" output="screen" />
+    <node pkg="drone_processor" name="optical_flow" type="optical_flow.py" output="screen" />
+    <node pkg="drone_processor" name="drone_translation" type="drone_translation.py" output="screen" />
+</launch>
