@@ -1,4 +1,4 @@
 # Thermal-Visual-Inertial-Odometry-Thesis-Project
-Code used for my masters thesis
+This directory includes the code that was developed for my masters thesis. 
 
-If you're reading this, you must be really excited to see my code. I haven't finished compiling the code into a comprehensive directory, so check back later.
+A significant development that is not included here is the Lepton driver. The Lepton driver is a much better developed package that I am keeping separate from this code. The Lepton driver can be found here: https://github.com/lincolnkinley/lepton_driver_usb
